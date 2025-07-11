@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGP_Data_Exchange\C\Data_Exchange_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\VGP_Data_Exchange\C\Colfer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGP_Data_Exchange\C\Data_Exchange_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGP_Data_Exchange\C\Data_Exchange_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGP_Data_Exchange\C\Data_Exchange_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\VGP_Data_Exchange\C\Colfer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\VGP_Data_Exchange\C\GameButtons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\VGP_Data_Exchange\C\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4FEF7BC5-D37A-3CC9-A6F2-B627D4F64684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1BC1C156-9186-354E-B924-77E76AA930C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

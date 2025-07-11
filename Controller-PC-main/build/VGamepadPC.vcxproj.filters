@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\networking\executor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\networking\server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\settings\settings_singleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\settings\keymap_profile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\simulation\keyboardSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\simulation\mouseSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\simulation\simulate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\about.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\badge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\buttoninputbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\mainmenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\preferences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\PNK5WDWK6L_Debug\qrc_icons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\PNK5WDWK6L_Release\qrc_icons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\PNK5WDWK6L_MinSizeRel\qrc_icons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\PNK5WDWK6L_RelWithDebInfo\qrc_icons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\networking\executor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\networking\server.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\settings\settings.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\settings\settings_singleton.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\settings\keymap_profile.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\simulation\keyboardSim.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\simulation\mouseSim.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\simulation\simulate.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\about.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\badge.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\buttoninputbox.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\mainmenu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\mainwindow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\preferences.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Debug\src\networking\ui_server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Debug\src\ui\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Debug\src\ui\ui_mainmenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Debug\src\ui\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Debug\src\ui\ui_preferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Release\src\networking\ui_server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Release\src\ui\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Release\src\ui\ui_mainmenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Release\src\ui\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_Release\src\ui\ui_preferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_MinSizeRel\src\networking\ui_server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_MinSizeRel\src\ui\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_MinSizeRel\src\ui\ui_mainmenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_MinSizeRel\src\ui\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_MinSizeRel\src\ui\ui_preferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_RelWithDebInfo\src\networking\ui_server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_RelWithDebInfo\src\ui\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_RelWithDebInfo\src\ui\ui_mainmenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_RelWithDebInfo\src\ui\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\include_RelWithDebInfo\src\ui\ui_preferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\CMakeFiles\6793500be3d52656b532600a8852e263\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\CMakeFiles\6ce3c28675b05f53b5d26051dce1611a\qrc_icons.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\res\icons.qrc" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\networking\server.ui" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\about.ui" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\mainmenu.ui" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\mainwindow.ui" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\src\ui\preferences.ui" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\autouic_Release.stamp" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Users\mertcan\Desktop\controller\VirtualGamePad-PC-main\build\VGamepadPC_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4554AB4A-A405-3B4E-B184-CDD05BC9A805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4FEF7BC5-D37A-3CC9-A6F2-B627D4F64684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1BC1C156-9186-354E-B924-77E76AA930C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

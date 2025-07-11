@@ -1,0 +1,7 @@
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/CMakeFiles/QR_Code_Generator.dir
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/CMakeFiles/VGamepadPC.dir
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/CMakeFiles/INSTALL.dir
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/VGP_Data_Exchange/C/CMakeFiles/Data_Exchange.dir
+C:/Users/mertcan/Desktop/controller/VirtualGamePad-PC-main/build/VGP_Data_Exchange/C/CMakeFiles/INSTALL.dir

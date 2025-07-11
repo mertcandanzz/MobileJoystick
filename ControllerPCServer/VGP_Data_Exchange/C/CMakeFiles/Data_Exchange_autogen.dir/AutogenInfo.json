@@ -1,0 +1,89 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/Data_Exchange_autogen",
+	"CMAKE_BINARY_DIR" : "D:/a/VGP-builds/VGP-builds/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/a/VGP-builds/VGP-builds/VGP_Data_Exchange/C",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : [ "D:/a/VGP-builds/VGP-builds/VGP_Data_Exchange/C/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "D:/a/VGP-builds/VGP-builds",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/Data_Exchange_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "Data_Exchange_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/a/VGP-builds/VGP-builds/VGP_Data_Exchange/C/Colfer.h",
+			"MU",
+			"EWIEGA46WW/moc_Colfer.cpp",
+			null
+		],
+		[
+			"D:/a/VGP-builds/VGP-builds/VGP_Data_Exchange/C/GameButtons.h",
+			"MU",
+			"EWIEGA46WW/moc_GameButtons.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/Data_Exchange_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/Data_Exchange_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "APP_VERSION=\"0.2.1\"" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/a/VGP-builds/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=gnu++20",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/Data_Exchange_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/CMakeFiles/Data_Exchange_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/a/VGP-builds/Qt/6.8.3/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/a/VGP-builds/Qt/6.8.3/mingw_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "D:/a/VGP-builds/VGP-builds/build/VGP_Data_Exchange/C/CMakeFiles/Data_Exchange_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/a/VGP-builds/VGP-builds/VGP_Data_Exchange/C/Colfer.c", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
