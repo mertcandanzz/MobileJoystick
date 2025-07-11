@@ -45,7 +45,4 @@ VirtualGamePad, bilgisayarınızı uzaktan bir mobil cihaz üzerinden kontrol et
 - Katkıda bulunmak için lütfen bir fork oluşturup pull request gönderin.
 
 ## Lisans
-Bu proje açık kaynaklıdır. Detaylar için lütfen ilgili klasörlerdeki LICENSE veya LICENCE.TXT dosyalarını inceleyin.
-
----
 Daha fazla bilgi ve dokümantasyon için: [kitswas.github.io/VirtualGamePad/](https://kitswas.github.io/VirtualGamePad/) 
