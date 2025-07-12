@@ -47,7 +47,7 @@ VirtualGamePad, bilgisayarınızı uzaktan bir mobil cihaz üzerinden kontrol et
 4. Farklı oyunlar veya uygulamalar için tuş profilleri oluşturabilirsiniz.
 
 ## Katkı ve Geri Bildirim
-- Hataları veya önerileri [GitHub Issues](https://github.com/kitswas/VirtualGamePad/issues) üzerinden bildirebilirsiniz.
+- Hataları veya önerileri [GitHub Issues](https://github.com/mertcandanzz/MobileJoystick/issues) üzerinden bildirebilirsiniz.
 - Katkıda bulunmak için lütfen bir fork oluşturup pull request gönderin.
 
 ## Lisans
