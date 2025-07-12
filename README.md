@@ -2,6 +2,12 @@
 
 VirtualGamePad, bilgisayarınızı uzaktan bir mobil cihaz üzerinden kontrol etmenizi sağlayan açık kaynaklı bir projedir. Mobil uygulama, bilgisayarınıza bağlanarak sanal bir gamepad gibi çalışır ve klavye/fare girdilerini bilgisayara iletir. Oyunlar veya diğer uygulamalar için özelleştirilebilir tuş haritaları sunar.
 
+## Hızlı Başlangıç (Alternatif Kurulum)
+- [Releases](https://github.com/mertcandanzz/MobileJoystick/releases/tag/v1.0.0) sayfasından **DesktopServer** (Windows için) ve **app.apk** (Android için) dosyalarını indirin.
+- DesktopServer'ı bilgisayarınızda çalıştırın.
+- app.apk dosyasını Android cihazınıza yükleyin.
+- Her iki cihaz da aynı yerel ağa (WiFi/Ethernet) bağlı olduğu sürece, mobil uygulama üzerinden bilgisayarınıza kolayca bağlanıp kullanabilirsiniz.
+
 ## Özellikler
 - Android mobil uygulaması ile Windows bilgisayarı kontrol etme
 - Klavye ve fare simülasyonu (oyun veya uygulama fark etmeksizin)
@@ -13,7 +19,7 @@ VirtualGamePad, bilgisayarınızı uzaktan bir mobil cihaz üzerinden kontrol et
 - **PC Sunucu:** Windows 10/11 (Qt6 ile geliştirilmiştir)
 - **Mobil İstemci:** Android (Kotlin, Jetpack Compose)
 
-## Kurulum
+## Kurulum (Kaynak Koddan Derleme)
 
 ### PC Sunucu (Windows)
 1. [Qt 6.8](https://www.qt.io/download-open-source) ve [CMake](https://cmake.org/download/) kurulu olmalıdır.
